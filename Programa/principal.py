@@ -15,4 +15,6 @@ while True:
         break
 
     else:
-        print('DIGITE UMA OPÇÃO VÁLIDA!')
+        print('============================'.center(100))
+        print('| DIGITE UMA OPÇÃO VÁLIDA! |'.center(100))
+        print('============================'.center(100))
