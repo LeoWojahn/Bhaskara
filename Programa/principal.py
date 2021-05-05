@@ -7,9 +7,11 @@ while True:
     resp = str(input('Opção: '))
 
     if resp == '1':
-        print('Hey')
+        linha()
+        somar()
 
     elif resp == '2':
+        linha2()
         print('Até Mais!')
         sleep(1)
         break
@@ -18,3 +20,4 @@ while True:
         print('============================'.center(100))
         print('| DIGITE UMA OPÇÃO VÁLIDA! |'.center(100))
         print('============================'.center(100))
+        print('')

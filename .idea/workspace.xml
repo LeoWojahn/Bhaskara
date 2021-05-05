@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95586746-3f2c-4688-b385-f815dbfffc70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programa/biblioteca/funções/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/biblioteca/funções/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programa/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/principal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
